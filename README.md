@@ -1,2 +1,2 @@
 # restreview-xss
-Preventing Cross site attacks project on Codecademy
+Preventing Cross site scripting attacks project on Codecademy
